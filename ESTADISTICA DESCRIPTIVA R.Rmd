@@ -16,6 +16,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Aaron Perron
 
+```{python}
+def cube(x):
+  x = x ** 3
+  return x
+```
 
 ### Abel perrito
 
@@ -25,6 +30,7 @@ set.seed(100)
 x <- rbinom(1000,30,0.5)
 
 hist(x)
-
 ```
+
+
 
