@@ -15,3 +15,10 @@ knitr::opts_chunk$set(echo = TRUE)
 * AARON
 
 ### Aaron Perron
+
+```{python}
+def cube(x):
+  x = x ** 3
+  return x
+```
+
