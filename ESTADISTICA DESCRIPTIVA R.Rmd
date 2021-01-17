@@ -21,6 +21,10 @@ def cube(x):
   x = x ** 3
   return x
 ```
+#### Machin lernin
+```{python}
+import pandas as pd
+```
 
 ### Abel perrito
 
