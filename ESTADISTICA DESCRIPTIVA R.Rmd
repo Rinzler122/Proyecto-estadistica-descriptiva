@@ -18,3 +18,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ### Abel perrito
+
+```{r}
+set.seed(100)
+
+x <- rbinom(1000,30,0.5)
+
+hist(x)
+
+```
+
