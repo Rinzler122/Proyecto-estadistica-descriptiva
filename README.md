@@ -10,3 +10,21 @@ En esta oportunidad, abordadermos temas como:
 Los colaboradores que participaran en este proyecto son:
 * Aaron Hernandez Juarez, Ingeniero en electrica - electronica por la Facultad de Estudios Superiores (FES) Aragón de la UNAM. Actualmente músico y vocalista de una banda desconocida.
 * Abel Martínez Huaracha, estudiante de economía en la Facultad de Economía en Ciudad Universitaria, por la UNAM. Actualmente estudiante como perro porque pinche vida está perra.
+
+## VARIABLES:
+
+**AARON**
+1. VERDURAS Y FRUTAS  -> verduras, frutas
+2. TABACO -> tabaco
+3. TOTAL DE INTEGRANTES DEL HOGAR -> tot_integ
+
+    * HOMBRES  -> hombres
+    * MUJERES  -> mujeres
+        
+4. INGRESO TOTAL  -> ing_cor
+
+**ABEL**
+ 1. GASTO CORRIENTE MONETARIO -> gasto_mon
+ 2. INGRESO TOTAL  -> ing_cor
+ 3. TRANSPORTE PÚBLICO
+ 4. ALIMENTOS DENTRO DEL HOGAR -> ali_dentro
